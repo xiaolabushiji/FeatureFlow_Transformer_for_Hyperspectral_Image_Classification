@@ -1,2 +1,2 @@
 # FeatureFlow_Transformer_for_Hyperspectral_Image_Classification
-Hyperspectral Image Classification
+The network is being open-sourced
